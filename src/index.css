@@ -14,3 +14,10 @@
 *{
     font-family:'Times New Roman', Times, serif;
 }
+main{
+    min-height:82vh;
+}
+footer{
+    background-color: rgb(223, 191, 149);
+    padding:10px;
+}
